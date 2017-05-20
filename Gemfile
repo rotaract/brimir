@@ -104,3 +104,5 @@ group :development do
   gem 'capistrano-rails', require: false
   gem 'capistrano-bundler', require: false
 end
+
+gem 'dotenv-rails'
