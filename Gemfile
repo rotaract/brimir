@@ -106,3 +106,4 @@ group :development do
 end
 
 gem 'dotenv-rails'
+gem 'sentry-raven'
